@@ -1,0 +1,1 @@
+Write a function that given an array X of n integers, returns the smallest positive integer which is greater than 0 that does not occur in X
